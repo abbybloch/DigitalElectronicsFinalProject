@@ -138,7 +138,6 @@ int horizontalMove (){
       oldPositionHor = newPositionHor;
       return val;
     }
- //   oldPositionHor = newPositionHor;            //set new old position
   } 
  //  else{
    val = 0;
